@@ -112,7 +112,7 @@
     </platform>
      <platform name="android">
 
-        <icon src="images/icon.png" />
+        <icon src="logo.png" />
 
     </platform>
     <plugin name="phonegap-plugin-barcodescanner" source="npm" spec="6.0.5" />

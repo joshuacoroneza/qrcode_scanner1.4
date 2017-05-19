@@ -110,9 +110,10 @@
     <platform name="android">
         <allow-intent href="market:*" />
     </platform>
-    <platform name="ios">
-        <allow-intent href="itms:*" />
-        <allow-intent href="itms-apps:*" />
+     <platform name="android">
+
+        <icon src="images/icon.png" />
+
     </platform>
     <plugin name="phonegap-plugin-barcodescanner" source="npm" spec="6.0.5" />
 </widget>
